@@ -62,13 +62,14 @@ body {
 }
 
 p {
-  padding: 5px 30px;
-  text-justify: center
+  padding: 5px 100px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 p#mobile_number {
-  padding: 1px 30px;
-  text-justify: center
+  padding: 1px 100px;
+  text-align: center
 }
 
 div {
@@ -112,6 +113,13 @@ div#link_bar {
 }
 #click_email{
   font-size: 12px;
+}
+}
+
+@media only screen and (min-width: 1000px) {
+iframe {
+    height: 400px;
+    width: 800px;
 }
 }
     </style>
