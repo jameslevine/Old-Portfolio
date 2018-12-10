@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <title>James Levine</title>
+  </head>
+  
+  <body>
+  <div id=banner>
+<img src="https://i.ibb.co/xCHvyhf/James-Levine-portrait-shirt.jpg">
+    <h1>
+  James Levine
+  </h1>
+  </div>
+  <div id="link_bar">
+    <ul class="socialLinks">
+  <li class="importantLinks"><a href="https://github.com/jameslevine">Github Profile</a></li>
+  <li class="importantLinks"><a href="https://www.freecodecamp.org/fcc9d9cae06-a267-454c-a290-c5f324f36fbe">Free Code Camp</a></li>
+  <li class="importantLinks"><a href="https://www.codewars.com/users/jamesalexanderlevine">CodeWars</a></li>
+  </ul> 
+  </div>
+  <div class="videoBanner">
+   <h2>
+  A short video from me
+  </h2>
+<iframe width="420" height="300"
+src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1">
+</iframe>
+</div>
+  <div class="factSection">
+  <h2>
+  An interesting fact about me
+  </h2>
+  <p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor est ac augue mollis, a tincidunt nisi pretium. Duis tempus elementum suscipit. Nunc odio mi, euismod rhoncus ultricies in, luctus eleifend tellus. Suspendisse sit amet aliquam orci. Mauris pulvinar felis vitae felis luctus, non iaculis arcu consequat. Fusce id nisi mollis, porta tellus a, commodo felis. Nullam pulvinar mi eget fringilla auctor.
+  </p>
+  </div>
+  <div id="contact_bar">
+  <h2>
+  Contact Me
+  </h2>
+ <a id="click_email" href="mailto:jamesalexanderlevine@gmail.com">Click Here To Email Me Directly</a>
+ <p id=mobile_number>
+ Mobile Number: +44 (0) 7590 060 709
+ </p>
+  </div>
+  </body>
+</html>
