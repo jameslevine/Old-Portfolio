@@ -1,0 +1,28 @@
+{
+  "name": "week5-timetofly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/scripts/server.js",
+  "scripts": {
+    "test": "node src/tests/router.test.js | tap-spec",
+    "start": "node src/scripts/server.js",
+    "go": "nodemon src/scripts/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FAC-Sixteen/week5-timeToFly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FAC-Sixteen/week5-timeToFly/issues"
+  },
+  "homepage": "https://github.com/FAC-Sixteen/week5-timeToFly#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10",
+    "request": "^2.88.0",
+    "supertest": "^4.0.2",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.10.1"
+  }
+}
